@@ -16,7 +16,7 @@ require("./all/module.js")
 const { color } = require('./all/function')
 const version = require("@whiskeysockets/baileys/package.json").version
 //========== Setting Owner ==========//
-global.owner = "6287792700432"
+global.owner = "6282336452967"
 global.namaowner = "mourvex ☕"
 global.namaowner2 = "mourvex"
 
@@ -37,7 +37,7 @@ global.packname = "Created By Devil 5.0 Gen 4"
 global.author = "AnggazyyDev"
 global.newsletterName = "DevilBot"
 global.target = 'https://www.en.sfcnavy.gov.bd/public/files/assets/ckeditor/kcfinder/upload.php'
-global.premium = ["6287792700432"] // Premium User
+global.premium = ["6282336452967"] // Premium User
 global.wm = "By mourvex - Devil Script"
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 
